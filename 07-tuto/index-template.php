@@ -1,6 +1,6 @@
 <div class="grille-articles">
 
-    <?php foreach ($articles as $article): ?>
+    <?php foreach($articles as $article): ?>
 
         <div class="carte-article">
 
